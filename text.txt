@@ -9,7 +9,5 @@
 !
 
 ||youtubekids.com^
-
-
-
-
+||m.facebook.com^
+||*.facebook.com^
